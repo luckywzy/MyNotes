@@ -1,8 +1,12 @@
+---
+typora-root-url: image
+---
+
 # JVM类加载机制
 
 JVM类加载机制分为五个部分：加载，验证，准备，解析，初始化，下面我们就分别来看一下这五个过程。
 
-[![4003106-dd3ff46b4f9f3574](http://incdn1.b0.upaiyun.com/2017/06/2fb054008ca2898e0a17f7d79ce525a1.png)](http://www.importnew.com/25295.html/4003106-dd3ff46b4f9f3574)
+![image-JVM类加载机制-类加载阶段](/../image/image-JVM类加载机制-类加载阶段.png)
 
 ## 加载
 
